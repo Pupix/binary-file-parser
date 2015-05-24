@@ -1,0 +1,33 @@
+{
+  "name": "bianry-file-parser",
+  "license": "MIT",
+  "description": "WIP",
+  "version": "0.5.0",
+  "homepage": "https://github.com/Pupix/binary-file-parser",
+  "author": {
+    "name": "Robert Manolea",
+    "email": "manolea.robert@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Robert Manolea",
+      "email": "manolea.robert@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pupix/binary-file-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pupix/binary-file-parser/issues"
+  },
+  "dependencies": {
+    "l33teral": "^2.0.4",
+    "xp-fs": "^0.8.0",
+    "expandjs": "^0.8.0"
+  },
+  "keywords": [
+    "binary",
+    "parser"
+  ]
+}
