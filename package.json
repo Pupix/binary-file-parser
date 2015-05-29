@@ -1,8 +1,8 @@
 {
-  "name": "bianry-file-parser",
+  "name": "binary-file-parser",
   "license": "MIT",
-  "description": "WIP",
-  "version": "0.5.0",
+  "description": "A binary file parser with internal buffer and caching system that lets you read virtually infinitely sized files.",
+  "version": "0.6.0",
   "homepage": "https://github.com/Pupix/binary-file-parser",
   "author": {
     "name": "Robert Manolea",
